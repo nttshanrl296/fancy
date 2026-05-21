@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    padding: 20px;
+    background: white;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.hero-img {
+    width: 100%;
+    height: auto;
+}
+
+.products {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.product-img {
+    width: 200px;
+    border-radius: 10px;
+}
